@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <name>Stuffable Core VEF Pirates Add-On</name>
+    <author>crazedmonkey231</author>
+    <packageId>crazedmonkey231.sc.vef.addon</packageId>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <description>Add-on for stuffable core for warcaskets.</description>
+    <modDependencies>
+        <li>
+            <packageId>OskarPotocki.VFE.Pirates</packageId>
+            <displayName>Vanilla Factions Expanded - Pirates</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2723801948</steamWorkshopUrl>
+        </li>
+		<li>
+            <packageId>crazedmonkey231.stuffable.core</packageId>
+            <displayName>[Beta] Stuffable Core</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2894532448</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
